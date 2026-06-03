@@ -1,4 +1,4 @@
-\# Rule-Based Chatbot
+# Rule-Based Chatbot
 
 
 
@@ -6,37 +6,50 @@ A simple chatbot built using Python and CustomTkinter.
 
 
 
-\## Features
+## Features
 
 
 
-\- Modern GUI using CustomTkinter
+- Modern GUI using CustomTkinter
 
-\- Greetings and farewell responses
+- Greetings and farewell responses
 
-\- Date and time queries
+- Date and time queries
 
-\- Joke responses
+- Joke responses
 
-\- Message timestamps
+- Message timestamps
 
-\- Auto-scrolling chat area
-
-
-
-\## Technologies Used
+- Auto-scrolling chat area
 
 
 
-\- Python
+## Screenshots
 
-\- Tkinter
+### Welcome Screen
+![Welcome](screenshots/screenshot1.png)
 
-\- CustomTkinter
+### Chat Example
+![Chat](screenshots/screenshot2.png)
+
+### Help Command
+![Help](screenshots/screenshot3.png)
 
 
 
-\## Installation
+## Technologies Used
+
+
+
+- Python
+
+- Tkinter
+
+- CustomTkinter
+
+
+
+## Installation
 
 
 
@@ -50,19 +63,19 @@ python main.py
 
 
 
-\## Future Improvements
+## Future Improvements
 
 
 
-\- AI-powered responses
+- AI-powered responses
 
-\- Chat history saving
+- Chat history saving
 
-\- Better intent recognition
+- Better intent recognition
 
 
 
-\## Author
+## Author
 
 
 
